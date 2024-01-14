@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # personal_portfolio_rstudio
 
 ## Home Page
@@ -131,4 +130,3 @@ Happy exploring!
 
 =======
 # personal_portfolio_rstudio
->>>>>>> f3f81597da5889345db1b8bcf309399965c82bde
