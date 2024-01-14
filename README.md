@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # personal_portfolio_rstudio
 
 ## Home Page
@@ -128,3 +129,6 @@ For any issues or questions, feel free to contact me [via email](mailto:dan.danc
 Happy exploring!
 
 
+=======
+# personal_portfolio_rstudio
+>>>>>>> f3f81597da5889345db1b8bcf309399965c82bde
