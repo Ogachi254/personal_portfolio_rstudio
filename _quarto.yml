@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Dancan Ogachi Nyang'au"
+  favicon: "images/dan.jpeg"
+  site-url: https://www.myblogexample.io
+  page-footer:
+    center: |
+      [Contact Dancan Ogachi](mailto:dan .dancanogachi@gmail.com)
+    left: |
+      Made with [Dancan Ogachi](https://github.com/Ogachi254)
+    right: |
+      [Github Code Repo](https://github.com)
+    background: "#2780e3"
+  navbar:
+    left:
+      - icon: rss
+      - href: index.qmd
+        text: Home
+      - href: blog.qmd
+        text: projects
+      - href: resume.qmd
+        text: Resume
+        
+    right:
+      - icon: git
+        href: https://github.com/Ogachi254
+      - icon: twitter
+        href: https://twitter.com/ogachidancan123
+format:
+  html:
+    theme:
+      light: slate
+      dark: [united, theme_dark_custom.scss]
+    highlight-style: github
+editor: visual

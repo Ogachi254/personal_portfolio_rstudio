@@ -1,0 +1,86 @@
+---
+title: "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions"
+author: "DANCAN OGACHI NYANG'AU"
+date: "2024-01-20"
+categories: [code, analysis]
+image: "image.jpg"
+---
+
+### ABSTRACT
+
+## Description
+
+In this healthcare research project, we embark on a comprehensive exploration of two critical data sets: cardiovascular health and COVID-19 statistics from international sources. Our goal is to derive meaningful insights, patterns, and trends to contribute to the broader understanding of healthcare dynamics.
+
+### INTRODUCTION
+
+However, healthcare is a complex and evolving field where the datasets provide important insights into health population. In this project, we focus on two vital aspects of health: cardiovascular health and COVID-19 pandemic. We seek to understand patterns, correlations and distinguishable points of interests using R and RStudio that will be useful for health care practitioners researchers
+
+The cardiovascular data set is detailed and contains the following parameters of individuals like age, gender, height weight, blood pressure cholesterol levels from sizing with smoking habits. This wealth of data provides an opportunity to research on the factors that can affect cardiovascular health.
+
+Concurrently, we look into the global implications of COVID-19 pandemic through international data analysis. Knowing the trends in infection, mortality rates and socio-economic factors affecting transmission is also important to have proper public health interventions.
+
+By combining these datasets and using rigorous analytical methods, we aim to uncover links between cardiovascular health risks associated with COVID-19. The multidisciplinary method ultimately makes it possible to arrive at holistic conclusions that might take healthcare research and policy development into a new direction.
+
+Journey with us through the world of data, statistical analytics and processes as we unlock hidden stories behind healthcare statistics datasets. Our research will provide unique insights that could translate into better health care practices and improved public health outcomes.
+
+## OBJECTIVES
+
+## MOTIVATION
+
+## EXPECTED ACCOMPLISHMENTS
+
+```{r}
+library(dplyr)
+library(kableExtra)
+```
+
+### DATA
+
+```{r}
+cardio_base <- read.csv("cardio_base.csv")
+cardio_base %>%
+  head() %>%
+  kable("html") %>%
+  kable_styling(full_width = FALSE)
+```
+
+## VARIABLES
+
+
+
+
+## DATA CLEANING 
+
+
+### ANALYSIS 
+
+
+## FEATURE SELECTION
+
+
+
+## EDA 
+
+
+
+## FINDINGS 
+
+
+
+
+### MODELLING 
+
+
+
+
+## MODEL SELECTION 
+
+
+### DISCUSSIONS AND CONCLUSIONS 
+
+
+
+### REFERENCES 
+
+

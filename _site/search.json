@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dancan Ogachi Nyang’au",
+    "section": "",
+    "text": "My name is Dancan Ogachi Nyang’au, an experienced data analyst based in Nairobi, Kenya, specializing in healthcare, finance and retail analytics. Armed with a B.Sc in Applied Statistics from Rongo University, my background includes a variety of tools including Tableau, SPSS, R, MATLAB, SAS, Python, and several programming languages. My experience as a junior analyst combined with strong analytical and problem solving skills would make me a vaubale asset to your organization. Dedicated to artificial intelligence, IoT, quantum computing, and continuous learning as seen by certification from IBM. My impact projects demonstrate my commitment to providing meaningful insights, such as statistical analysis of feedback learning processes in patient education. In addition to my technical knowledge, I am an effective communicator in English and Swahili and actively participate in the technology community through platforms such as GitHub, Twitter and LinkedIn."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Portfolio",
+    "section": "",
+    "text": "Welcome to My Statistical Journey: A Portfolio Showcase\nGreetings! In this section of my portfolio, I invite you to explore a detailed overview of major projects that stand as a testament to my proficiency in statistics. I am excited to demonstrate how my technical skills seamlessly integrate into real-time applications, offering invaluable insights across a spectrum of industries.\nDiverse Applications of Statistical Expertise\nWithin these projects, I delve into the extensive application of statistical methodologies, showcasing their relevance in critical areas such as healthcare research, customer and service delivery satisfaction, market analysis, and broader business intelligence. Each project serves as a tangible example of how statistical insights can drive informed decision-making in various industry sectors.\nCommitment to Data Protection and Privacy\nAmidst this exploration, I place a significant emphasis on information security and system monitoring. My dedication to ensuring robust data protection and privacy management is reflected in every aspect of these projects.\nEncompassing the Depth of Statistical Concepts\nRecognizing the breadth of the field of statistics, I aim to cover all major concepts acquired during my training period. From extracting meaningful trends in healthcare data to optimizing strategies for customer satisfaction and offering actionable insights for market analysis, this portfolio encapsulates the wide-ranging applications of statistical expertise.\nVersatility and Practicality in Statistical Skills\nJoin me in navigating through the dynamic landscape of statistical methodologies. This portfolio not only showcases technical prowess but also underscores a commitment to addressing the intricate challenges prevalent in today’s ever-evolving business environment.\n\nThank you for accompanying me on this statistical journey. I hope the insights gleaned from these projects resonate with the depth and versatility of statistical applications across industries."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions\n\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nDANCAN OGACHI NYANG’AU\n\n\nJan 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Portfolio\n\n\n\nnews\n\n\n\n\n\n\n\nDancan Ogachi Nyang’au\n\n\nJan 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "",
+    "text": "ABSTRACT\n##Description: In this healthcare research project, we embark on a comprehensive exploration of two critical data sets: cardiovascular health and COVID-19 statistics from international sources. Our goal is to derive meaningful insights, patterns, and trends to contribute to the broader understanding of healthcare dynamics.\n\n\nINTRODUCTION\nHowever, healthcare is a complex and evolving field where the datasets provide important insights into health population. In this project, we focus on two vital aspects of health: cardiovascular health and COVID-19 pandemic. We seek to understand patterns, correlations and distinguishable points of interests using R and RStudio that will be useful for health care practitioners researchers\nThe cardiovascular data set is detailed and contains the following parameters of individuals like age, gender, height weight, blood pressure cholesterol levels from sizing with smoking habits. This wealth of data provides an opportunity to research on the factors that can affect cardiovascular health.\nConcurrently, we look into the global implications of COVID-19 pandemic through international data analysis. Knowing the trends in infection, mortality rates and socio-economic factors affecting transmission is also important to have proper public health interventions.\nBy combining these datasets and using rigorous analytical methods, we aim to uncover links between cardiovascular health risks associated with COVID-19. The multidisciplinary method ultimately makes it possible to arrive at holistic conclusions that might take healthcare research and policy development into a new direction.\nJourney with us through the world of data, statistical analytics and processes as we unlock hidden stories behind healthcare statistics datasets. Our research will provide unique insights that could translate into better health care practices and improved public health outcomes.\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(kableExtra)\n\n\nAttaching package: 'kableExtra'\n\n\nThe following object is masked from 'package:dplyr':\n\n    group_rows\n\n\n\ncardio_base &lt;- read.csv(\"cardio_base.csv\")\ncardio_base %&gt;%\n  head() %&gt;%\n  kable(\"html\") %&gt;%\n  kable_styling(full_width = FALSE)\n\n\n\n\nid\nage\ngender\nheight\nweight\nap_hi\nap_lo\ncholesterol\nsmoke\n\n\n\n\n0\n18393\n2\n168\n62\n110\n80\n1\n0\n\n\n1\n20228\n1\n156\n85\n140\n90\n3\n0\n\n\n2\n18857\n1\n165\n64\n130\n70\n3\n0\n\n\n3\n17623\n2\n169\n82\n150\n100\n1\n0\n\n\n4\n17474\n1\n156\n56\n100\n60\n1\n0\n\n\n8\n21914\n1\n151\n67\n120\n80\n2\n0"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Dancan Ogachi Nyang’au",
+    "section": "",
+    "text": "My name is Dancan Ogachi Nyang’au, an experienced data analyst based in Nairobi, Kenya, specializing in healthcare, finance and retail analytics. Armed with a B.Sc in Applied Statistics from Rongo University, my background includes a variety of tools including Tableau, SPSS, R, MATLAB, SAS, Python, and several programming languages. My experience as a junior analyst combined with strong analytical and problem solving skills would make me a vaubale asset to your organization. Dedicated to artificial intelligence, IoT, quantum computing, and continuous learning as seen by certification from IBM. My impact projects demonstrate my commitment to providing meaningful insights, such as statistical analysis of feedback learning processes in patient education. In addition to my technical knowledge, I am an effective communicator in English and Swahili and actively participate in the technology community through platforms such as GitHub, Twitter and LinkedIn."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#description",
+    "href": "posts/post-with-code/index.html#description",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "Description",
+    "text": "Description\nIn this healthcare research project, we embark on a comprehensive exploration of two critical data sets: cardiovascular health and COVID-19 statistics from international sources. Our goal is to derive meaningful insights, patterns, and trends to contribute to the broader understanding of healthcare dynamics.\n\nINTRODUCTION\nHowever, healthcare is a complex and evolving field where the datasets provide important insights into health population. In this project, we focus on two vital aspects of health: cardiovascular health and COVID-19 pandemic. We seek to understand patterns, correlations and distinguishable points of interests using R and RStudio that will be useful for health care practitioners researchers\nThe cardiovascular data set is detailed and contains the following parameters of individuals like age, gender, height weight, blood pressure cholesterol levels from sizing with smoking habits. This wealth of data provides an opportunity to research on the factors that can affect cardiovascular health.\nConcurrently, we look into the global implications of COVID-19 pandemic through international data analysis. Knowing the trends in infection, mortality rates and socio-economic factors affecting transmission is also important to have proper public health interventions.\nBy combining these datasets and using rigorous analytical methods, we aim to uncover links between cardiovascular health risks associated with COVID-19. The multidisciplinary method ultimately makes it possible to arrive at holistic conclusions that might take healthcare research and policy development into a new direction.\nJourney with us through the world of data, statistical analytics and processes as we unlock hidden stories behind healthcare statistics datasets. Our research will provide unique insights that could translate into better health care practices and improved public health outcomes."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#objectives",
+    "href": "posts/post-with-code/index.html#objectives",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "OBJECTIVES",
+    "text": "OBJECTIVES"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#motivation",
+    "href": "posts/post-with-code/index.html#motivation",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "MOTIVATION",
+    "text": "MOTIVATION"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#expected-accomplishments",
+    "href": "posts/post-with-code/index.html#expected-accomplishments",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "EXPECTED ACCOMPLISHMENTS",
+    "text": "EXPECTED ACCOMPLISHMENTS\n\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(kableExtra)\n\n\nAttaching package: 'kableExtra'\n\n\nThe following object is masked from 'package:dplyr':\n\n    group_rows\n\n\n\nDATA\n\ncardio_base &lt;- read.csv(\"cardio_base.csv\")\ncardio_base %&gt;%\n  head() %&gt;%\n  kable(\"html\") %&gt;%\n  kable_styling(full_width = FALSE)\n\n\n\n\nid\nage\ngender\nheight\nweight\nap_hi\nap_lo\ncholesterol\nsmoke\n\n\n\n\n0\n18393\n2\n168\n62\n110\n80\n1\n0\n\n\n1\n20228\n1\n156\n85\n140\n90\n3\n0\n\n\n2\n18857\n1\n165\n64\n130\n70\n3\n0\n\n\n3\n17623\n2\n169\n82\n150\n100\n1\n0\n\n\n4\n17474\n1\n156\n56\n100\n60\n1\n0\n\n\n8\n21914\n1\n151\n67\n120\n80\n2\n0"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#variables",
+    "href": "posts/post-with-code/index.html#variables",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "VARIABLES",
+    "text": "VARIABLES"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#data-cleaning",
+    "href": "posts/post-with-code/index.html#data-cleaning",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "DATA CLEANING",
+    "text": "DATA CLEANING\n\nANALYSIS"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#feature-selection",
+    "href": "posts/post-with-code/index.html#feature-selection",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "FEATURE SELECTION",
+    "text": "FEATURE SELECTION"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#eda",
+    "href": "posts/post-with-code/index.html#eda",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "EDA",
+    "text": "EDA"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#findings",
+    "href": "posts/post-with-code/index.html#findings",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "FINDINGS",
+    "text": "FINDINGS\n\nMODELLING"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#model-selection",
+    "href": "posts/post-with-code/index.html#model-selection",
+    "title": "Healthcare Insights Unveiled: Exploring Cardiovascular and COVID-19 Cases as reported in different regions",
+    "section": "MODEL SELECTION",
+    "text": "MODEL SELECTION\n\nDISCUSSIONS AND CONCLUSIONS\n\n\nREFERENCES"
+  }
+]

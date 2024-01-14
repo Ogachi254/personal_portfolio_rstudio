@@ -1,0 +1,23 @@
+---
+title: "Dancan Ogachi Nyang'au"
+image: images/dan.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/dan             an-ogachi-80026419b/
+    - icon: github
+      text: Github
+      href: https://github.com/Ogachi254
+    - icon: envelope-plus-fill
+      text: Contact me
+      href: mailto:dan.dancanogachi@gmail.co             m
+---
+
+## BIO
+
+My name is Dancan Ogachi Nyang'au, an experienced data analyst based in Nairobi, Kenya, specializing in healthcare, finance and retail analytics. Armed with a B.Sc in Applied Statistics from Rongo University, my background includes a variety of tools including Tableau, SPSS, R, MATLAB, SAS, Python, and several programming languages. My experience as a junior analyst combined with strong analytical and problem solving skills would make me a vaubale asset to your organization. Dedicated to artificial intelligence, IoT, quantum computing, and continuous learning as seen by certification from IBM. My impact projects demonstrate my commitment to providing meaningful insights, such as statistical analysis of feedback learning processes in patient education. In addition to my technical knowledge, I am an effective communicator in English and Swahili and actively participate in the technology community through platforms such as GitHub, Twitter and LinkedIn.
